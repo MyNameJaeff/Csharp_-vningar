@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NärPåsk/1.0.0": {
+        "runtime": {
+          "NärPåsk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NärPåsk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fredr\\source\\repos\\Csharp_\u00D6vningar\\N\u00E4rP\u00E5sk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E25C6169-96F6-466D-80EA-8161D918B6A1}|N\u00E4rP\u00E5sk\\N\u00E4rP\u00E5sk.csproj|c:\\users\\fredr\\source\\repos\\csharp_\u00F6vningar\\n\u00E4rp\u00E5sk\\n\u00E4rp\u00E5sk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25C6169-96F6-466D-80EA-8161D918B6A1}|N\u00E4rP\u00E5sk\\N\u00E4rP\u00E5sk.csproj|solutionrelative:n\u00E4rp\u00E5sk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\Csharp_\u00D6vningar\\N\u00E4rP\u00E5sk\\N\u00E4rP\u00E5sk\\Program.cs",
+              "RelativeDocumentMoniker": "N\u00E4rP\u00E5sk\\Program.cs",
+              "ToolTip": "C:\\Users\\fredr\\source\\repos\\Csharp_\u00D6vningar\\N\u00E4rP\u00E5sk\\N\u00E4rP\u00E5sk\\Program.cs*",
+              "RelativeToolTip": "N\u00E4rP\u00E5sk\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:40:19.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

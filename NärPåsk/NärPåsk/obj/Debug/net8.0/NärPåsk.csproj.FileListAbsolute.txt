@@ -1,0 +1,14 @@
+C:\Users\fredr\source\repos\Csharp_Övningar\NärPåsk\NärPåsk\bin\Debug\net8.0\NärPåsk.exe
+C:\Users\fredr\source\repos\Csharp_Övningar\NärPåsk\NärPåsk\bin\Debug\net8.0\NärPåsk.deps.json
+C:\Users\fredr\source\repos\Csharp_Övningar\NärPåsk\NärPåsk\bin\Debug\net8.0\NärPåsk.runtimeconfig.json
+C:\Users\fredr\source\repos\Csharp_Övningar\NärPåsk\NärPåsk\bin\Debug\net8.0\NärPåsk.dll
+C:\Users\fredr\source\repos\Csharp_Övningar\NärPåsk\NärPåsk\bin\Debug\net8.0\NärPåsk.pdb
+C:\Users\fredr\source\repos\Csharp_Övningar\NärPåsk\NärPåsk\obj\Debug\net8.0\NärPåsk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredr\source\repos\Csharp_Övningar\NärPåsk\NärPåsk\obj\Debug\net8.0\NärPåsk.AssemblyInfoInputs.cache
+C:\Users\fredr\source\repos\Csharp_Övningar\NärPåsk\NärPåsk\obj\Debug\net8.0\NärPåsk.AssemblyInfo.cs
+C:\Users\fredr\source\repos\Csharp_Övningar\NärPåsk\NärPåsk\obj\Debug\net8.0\NärPåsk.csproj.CoreCompileInputs.cache
+C:\Users\fredr\source\repos\Csharp_Övningar\NärPåsk\NärPåsk\obj\Debug\net8.0\NärPåsk.dll
+C:\Users\fredr\source\repos\Csharp_Övningar\NärPåsk\NärPåsk\obj\Debug\net8.0\refint\NärPåsk.dll
+C:\Users\fredr\source\repos\Csharp_Övningar\NärPåsk\NärPåsk\obj\Debug\net8.0\NärPåsk.pdb
+C:\Users\fredr\source\repos\Csharp_Övningar\NärPåsk\NärPåsk\obj\Debug\net8.0\NärPåsk.genruntimeconfig.cache
+C:\Users\fredr\source\repos\Csharp_Övningar\NärPåsk\NärPåsk\obj\Debug\net8.0\ref\NärPåsk.dll
