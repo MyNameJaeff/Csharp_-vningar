@@ -1,0 +1,15 @@
+C:\Users\fredr\source\repos\Csharp_Övningar\DagarMellanDatum\DagarMellanDatum\bin\Debug\net8.0\DagarMellanDatum.exe
+C:\Users\fredr\source\repos\Csharp_Övningar\DagarMellanDatum\DagarMellanDatum\bin\Debug\net8.0\DagarMellanDatum.deps.json
+C:\Users\fredr\source\repos\Csharp_Övningar\DagarMellanDatum\DagarMellanDatum\bin\Debug\net8.0\DagarMellanDatum.runtimeconfig.json
+C:\Users\fredr\source\repos\Csharp_Övningar\DagarMellanDatum\DagarMellanDatum\bin\Debug\net8.0\DagarMellanDatum.dll
+C:\Users\fredr\source\repos\Csharp_Övningar\DagarMellanDatum\DagarMellanDatum\bin\Debug\net8.0\DagarMellanDatum.pdb
+C:\Users\fredr\source\repos\Csharp_Övningar\DagarMellanDatum\DagarMellanDatum\obj\Debug\net8.0\DagarMellanDatum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredr\source\repos\Csharp_Övningar\DagarMellanDatum\DagarMellanDatum\obj\Debug\net8.0\DagarMellanDatum.AssemblyInfoInputs.cache
+C:\Users\fredr\source\repos\Csharp_Övningar\DagarMellanDatum\DagarMellanDatum\obj\Debug\net8.0\DagarMellanDatum.AssemblyInfo.cs
+C:\Users\fredr\source\repos\Csharp_Övningar\DagarMellanDatum\DagarMellanDatum\obj\Debug\net8.0\DagarMellanDatum.csproj.CoreCompileInputs.cache
+C:\Users\fredr\source\repos\Csharp_Övningar\DagarMellanDatum\DagarMellanDatum\obj\Debug\net8.0\DagarMellanDatum.sourcelink.json
+C:\Users\fredr\source\repos\Csharp_Övningar\DagarMellanDatum\DagarMellanDatum\obj\Debug\net8.0\DagarMellanDatum.dll
+C:\Users\fredr\source\repos\Csharp_Övningar\DagarMellanDatum\DagarMellanDatum\obj\Debug\net8.0\refint\DagarMellanDatum.dll
+C:\Users\fredr\source\repos\Csharp_Övningar\DagarMellanDatum\DagarMellanDatum\obj\Debug\net8.0\DagarMellanDatum.pdb
+C:\Users\fredr\source\repos\Csharp_Övningar\DagarMellanDatum\DagarMellanDatum\obj\Debug\net8.0\DagarMellanDatum.genruntimeconfig.cache
+C:\Users\fredr\source\repos\Csharp_Övningar\DagarMellanDatum\DagarMellanDatum\obj\Debug\net8.0\ref\DagarMellanDatum.dll

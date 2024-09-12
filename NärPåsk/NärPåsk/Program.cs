@@ -1,7 +1,7 @@
 ﻿static void Start()
 {
     Console.WriteLine("År:");
-    int year = int.Parse(Console.ReadLine() ?? "2000"); // Year 2000 if readline is null
+    int year = Convert.ToInt32(Console.ReadLine());
 
     int a = year % 19;
     int b = year % 4;

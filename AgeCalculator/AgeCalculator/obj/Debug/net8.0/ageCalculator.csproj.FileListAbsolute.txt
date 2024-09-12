@@ -1,0 +1,15 @@
+C:\Users\fredr\source\repos\Csharp_Övningar\ageCalculator\ageCalculator\bin\Debug\net8.0\ageCalculator.exe
+C:\Users\fredr\source\repos\Csharp_Övningar\ageCalculator\ageCalculator\bin\Debug\net8.0\ageCalculator.deps.json
+C:\Users\fredr\source\repos\Csharp_Övningar\ageCalculator\ageCalculator\bin\Debug\net8.0\ageCalculator.runtimeconfig.json
+C:\Users\fredr\source\repos\Csharp_Övningar\ageCalculator\ageCalculator\bin\Debug\net8.0\ageCalculator.dll
+C:\Users\fredr\source\repos\Csharp_Övningar\ageCalculator\ageCalculator\bin\Debug\net8.0\ageCalculator.pdb
+C:\Users\fredr\source\repos\Csharp_Övningar\ageCalculator\ageCalculator\obj\Debug\net8.0\ageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredr\source\repos\Csharp_Övningar\ageCalculator\ageCalculator\obj\Debug\net8.0\ageCalculator.AssemblyInfoInputs.cache
+C:\Users\fredr\source\repos\Csharp_Övningar\ageCalculator\ageCalculator\obj\Debug\net8.0\ageCalculator.AssemblyInfo.cs
+C:\Users\fredr\source\repos\Csharp_Övningar\ageCalculator\ageCalculator\obj\Debug\net8.0\ageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\fredr\source\repos\Csharp_Övningar\ageCalculator\ageCalculator\obj\Debug\net8.0\ageCalculator.sourcelink.json
+C:\Users\fredr\source\repos\Csharp_Övningar\ageCalculator\ageCalculator\obj\Debug\net8.0\ageCalculator.dll
+C:\Users\fredr\source\repos\Csharp_Övningar\ageCalculator\ageCalculator\obj\Debug\net8.0\refint\ageCalculator.dll
+C:\Users\fredr\source\repos\Csharp_Övningar\ageCalculator\ageCalculator\obj\Debug\net8.0\ageCalculator.pdb
+C:\Users\fredr\source\repos\Csharp_Övningar\ageCalculator\ageCalculator\obj\Debug\net8.0\ageCalculator.genruntimeconfig.cache
+C:\Users\fredr\source\repos\Csharp_Övningar\ageCalculator\ageCalculator\obj\Debug\net8.0\ref\ageCalculator.dll

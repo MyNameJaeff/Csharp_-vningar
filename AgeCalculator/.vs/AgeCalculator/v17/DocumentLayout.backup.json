@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\fredr\\source\\repos\\Csharp_\u00D6vningar\\AgeCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9B5E8C2-17AE-4A96-B8A0-F454C366C5AB}|AgeCalculator\\AgeCalculator.csproj|c:\\users\\fredr\\source\\repos\\csharp_\u00F6vningar\\agecalculator\\agecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9B5E8C2-17AE-4A96-B8A0-F454C366C5AB}|AgeCalculator\\AgeCalculator.csproj|solutionrelative:agecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{008890A4-CF94-4624-BD5C-7895281255F9}|ageCalculator\\ageCalculator.csproj|c:\\users\\fredr\\source\\repos\\csharp_\u00F6vningar\\agecalculator\\agecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008890A4-CF94-4624-BD5C-7895281255F9}|ageCalculator\\ageCalculator.csproj|solutionrelative:agecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "RelativeDocumentMoniker": "AgeCalculator\\Program.cs",
               "ToolTip": "C:\\Users\\fredr\\source\\repos\\Csharp_\u00D6vningar\\AgeCalculator\\AgeCalculator\\Program.cs",
               "RelativeToolTip": "AgeCalculator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T12:45:16.043Z",
+              "WhenOpened": "2024-09-12T11:02:41.184Z",
               "EditorCaption": ""
             }
           ]

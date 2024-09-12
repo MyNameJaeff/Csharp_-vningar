@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fredr\\source\\repos\\Csharp_Övningar\\AgeCalculator\\AgeCalculator\\AgeCalculator.csproj": {}
+    "C:\\Users\\fredr\\source\\repos\\Csharp_Övningar\\AgeCalculator\\ageCalculator\\ageCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fredr\\source\\repos\\Csharp_Övningar\\AgeCalculator\\AgeCalculator\\AgeCalculator.csproj": {
+    "C:\\Users\\fredr\\source\\repos\\Csharp_Övningar\\AgeCalculator\\ageCalculator\\ageCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fredr\\source\\repos\\Csharp_Övningar\\AgeCalculator\\AgeCalculator\\AgeCalculator.csproj",
-        "projectName": "AgeCalculator",
-        "projectPath": "C:\\Users\\fredr\\source\\repos\\Csharp_Övningar\\AgeCalculator\\AgeCalculator\\AgeCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\fredr\\source\\repos\\Csharp_Övningar\\AgeCalculator\\ageCalculator\\ageCalculator.csproj",
+        "projectName": "ageCalculator",
+        "projectPath": "C:\\Users\\fredr\\source\\repos\\Csharp_Övningar\\AgeCalculator\\ageCalculator\\ageCalculator.csproj",
         "packagesPath": "C:\\Users\\fredr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fredr\\source\\repos\\Csharp_Övningar\\AgeCalculator\\AgeCalculator\\obj\\",
+        "outputPath": "C:\\Users\\fredr\\source\\repos\\Csharp_Övningar\\ageCalculator\\ageCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fredr\\AppData\\Roaming\\NuGet\\NuGet.Config",

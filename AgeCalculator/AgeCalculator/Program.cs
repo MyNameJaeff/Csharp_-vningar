@@ -1,17 +1,25 @@
-﻿namespace AgeCalculator
+﻿namespace ageCalculator
 {
-    internal class Program
+    class Program
     {
-        static void Main(string[] args)
+        static int CalculateAge(DateTime birthDate)
         {
-            Console.WriteLine("Hello, World!");
-            static int calculateAge(int year)
+            int age = DateTime.Today.Year - birthDate.Year;
+
+            // Check if the birthday has not occurred yet this year
+            if (DateTime.Today < birthDate.AddYears(age))
             {
-                int age = 2;
-                return age;
+                age--;
             }
 
-            calculateAge(2004);
+            Console.WriteLine(age);
+            return age;
+        }
+
+        static void Main(string[] args)
+        {
+            CalculateAge(DateTime.Parse("2004-12-07"));
         }
     }
+
 }
