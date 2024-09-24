@@ -1,0 +1,15 @@
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/HängaGubbe/HängaGubbe/bin/Debug/net8.0/HängaGubbe
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/HängaGubbe/HängaGubbe/bin/Debug/net8.0/HängaGubbe.deps.json
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/HängaGubbe/HängaGubbe/bin/Debug/net8.0/HängaGubbe.runtimeconfig.json
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/HängaGubbe/HängaGubbe/bin/Debug/net8.0/HängaGubbe.dll
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/HängaGubbe/HängaGubbe/bin/Debug/net8.0/HängaGubbe.pdb
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/HängaGubbe/HängaGubbe/obj/Debug/net8.0/HängaGubbe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/HängaGubbe/HängaGubbe/obj/Debug/net8.0/HängaGubbe.AssemblyInfoInputs.cache
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/HängaGubbe/HängaGubbe/obj/Debug/net8.0/HängaGubbe.AssemblyInfo.cs
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/HängaGubbe/HängaGubbe/obj/Debug/net8.0/HängaGubbe.csproj.CoreCompileInputs.cache
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/HängaGubbe/HängaGubbe/obj/Debug/net8.0/HängaGubbe.sourcelink.json
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/HängaGubbe/HängaGubbe/obj/Debug/net8.0/HängaGubbe.dll
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/HängaGubbe/HängaGubbe/obj/Debug/net8.0/refint/HängaGubbe.dll
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/HängaGubbe/HängaGubbe/obj/Debug/net8.0/HängaGubbe.pdb
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/HängaGubbe/HängaGubbe/obj/Debug/net8.0/HängaGubbe.genruntimeconfig.cache
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/HängaGubbe/HängaGubbe/obj/Debug/net8.0/ref/HängaGubbe.dll

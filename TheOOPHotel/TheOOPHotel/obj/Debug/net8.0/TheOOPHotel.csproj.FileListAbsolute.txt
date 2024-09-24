@@ -1,0 +1,15 @@
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/TheOOPHotel/TheOOPHotel/bin/Debug/net8.0/TheOOPHotel
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/TheOOPHotel/TheOOPHotel/bin/Debug/net8.0/TheOOPHotel.deps.json
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/TheOOPHotel/TheOOPHotel/bin/Debug/net8.0/TheOOPHotel.runtimeconfig.json
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/TheOOPHotel/TheOOPHotel/bin/Debug/net8.0/TheOOPHotel.dll
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/TheOOPHotel/TheOOPHotel/bin/Debug/net8.0/TheOOPHotel.pdb
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/TheOOPHotel/TheOOPHotel/obj/Debug/net8.0/TheOOPHotel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/TheOOPHotel/TheOOPHotel/obj/Debug/net8.0/TheOOPHotel.AssemblyInfoInputs.cache
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/TheOOPHotel/TheOOPHotel/obj/Debug/net8.0/TheOOPHotel.AssemblyInfo.cs
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/TheOOPHotel/TheOOPHotel/obj/Debug/net8.0/TheOOPHotel.csproj.CoreCompileInputs.cache
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/TheOOPHotel/TheOOPHotel/obj/Debug/net8.0/TheOOPHotel.sourcelink.json
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/TheOOPHotel/TheOOPHotel/obj/Debug/net8.0/TheOOPHotel.dll
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/TheOOPHotel/TheOOPHotel/obj/Debug/net8.0/refint/TheOOPHotel.dll
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/TheOOPHotel/TheOOPHotel/obj/Debug/net8.0/TheOOPHotel.pdb
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/TheOOPHotel/TheOOPHotel/obj/Debug/net8.0/TheOOPHotel.genruntimeconfig.cache
+/Users/fredrik.andersson31/Documents/GitHub/Csharp_-vningar/TheOOPHotel/TheOOPHotel/obj/Debug/net8.0/ref/TheOOPHotel.dll
