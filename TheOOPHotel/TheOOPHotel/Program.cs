@@ -1,35 +1,117 @@
-﻿// Användaren matar in gästnamn
-using TheOOPHotel;
+﻿using TheOOPHotel;
+using System;
 
-Console.Write("Enter guest name: ");
-string guestName = Console.ReadLine();
+class Program
+{
+    static void Main()
+    {
+        string name = "";
+        while (string.IsNullOrWhiteSpace(name))
+        {
+            Console.Write("Ange ditt namn: ");
+            name = Console.ReadLine();
+            if (string.IsNullOrWhiteSpace(name))
+            {
+                Console.WriteLine("Namnet kan inte vara tomt. Försök igen.");
+            }
+        }
 
-// Användaren matar in startdatum
-Console.Write("Enter start date (yyyy-mm-dd): ");
-DateTime startDate = Convert.ToDateTime(Console.ReadLine());
+        string email = "";
+        while (string.IsNullOrWhiteSpace(email))
+        {
+            Console.Write("Ange din e-post: ");
+            email = Console.ReadLine();
+            if (string.IsNullOrWhiteSpace(email))
+            {
+                Console.WriteLine("E-post kan inte vara tomt. Försök igen.");
+            }
+        }
 
-// Användaren matar in antal dagar för vistelsen
-Console.Write("Enter length of stay in days: ");
-string lenghtOfStayInDays = Console.ReadLine();
+        string phone = "";
+        while (string.IsNullOrWhiteSpace(phone))
+        {
+            Console.Write("Ange ditt telefonnummer: ");
+            phone = Console.ReadLine();
+            if (string.IsNullOrWhiteSpace(phone))
+            {
+                Console.WriteLine("Telefonnummer kan inte vara tomt. Försök igen.");
+            }
+        }
 
-// Användaren matar in priset per natt
-Console.Write("Write price per night: ");
-int pricePerNight = Convert.ToInt32(Console.ReadLine());
+        Person guest = new Person(name, email, phone);
 
-// Skapa en ny bokning
-HotelBooking booking = new HotelBooking(guestName, startDate, Convert.ToInt32(lenghtOfStayInDays), pricePerNight);
+        DateTime startDate;
+        while (true)
+        {
+            Console.Write("Ange startdatum (åååå-mm-dd): ");
+            string input = Console.ReadLine();
+            if (DateTime.TryParse(input, out startDate))
+            {
+                if (startDate < DateTime.Today)
+                {
+                    Console.WriteLine("Startdatum kan inte vara i det förflutna. Försök igen.");
+                }
+                else
+                {
+                    break;
+                }
+            }
+            else
+            {
+                Console.WriteLine("Ogiltigt datumformat. Vänligen använd åååå-mm-dd.");
+            }
+        }
 
-// Skriv ut ursprunglig bokningsinformation
-Console.WriteLine("Original booking information:");
-booking.DisplayBookingInfo(); //Ska även visa priset för vistelsen nu
+        int lengthOfStay;
+        while (true)
+        {
+            Console.Write("Ange vistelsens längd i dagar: ");
+            if (int.TryParse(Console.ReadLine(), out lengthOfStay) && lengthOfStay > 0)
+            {
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Längden på vistelsen måste vara ett giltigt positivt tal. Försök igen.");
+            }
+        }
 
-// Användaren matar in nytt antal dagar för att ändra bokningen
-Console.Write("Enter new length of stay in days: ");
-string newLenghtOfStayInDays = Console.ReadLine();
+        int pricePerNight;
+        while (true)
+        {
+            Console.Write("Ange pris per natt: ");
+            if (int.TryParse(Console.ReadLine(), out pricePerNight) && pricePerNight > 0)
+            {
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Pris per natt måste vara ett giltigt positivt tal. Försök igen.");
+            }
+        }
 
-// Ändra längden på vistelsen
-booking.UpdateLengthOfStay(Convert.ToInt32(newLenghtOfStayInDays));
+        HotelBooking booking = new HotelBooking(guest, startDate, lengthOfStay, pricePerNight);
 
-// Skriv ut uppdaterad bokningsinformation
-Console.WriteLine("\nUpdated booking information:");
-booking.DisplayBookingInfo();
+        Console.WriteLine("Ursprunglig bokningsinformation:");
+        booking.DisplayBookingInfo();
+
+        int newLengthOfStay;
+        while (true)
+        {
+            Console.Write("Ange nytt antal dagar för vistelsen: ");
+            if (int.TryParse(Console.ReadLine(), out newLengthOfStay) && newLengthOfStay > 0)
+            {
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Nytt antal dagar måste vara ett giltigt positivt tal. Försök igen.");
+            }
+        }
+
+        booking.UpdateLengthOfStay(newLengthOfStay);
+
+        Console.WriteLine("\nUppdaterad bokningsinformation:");
+        booking.DisplayBookingInfo();
+    }
+}

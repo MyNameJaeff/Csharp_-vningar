@@ -2,17 +2,15 @@ namespace TheOOPHotel;
 
 public class HotelBooking
 {
-    public string GuestName { get; set; }
+    public Person Person { get; set; }
     public DateTime StartDate { get; set; }
     public DateTime EndDate { get; set; }
     public int LengthOfStayInDays { get; set; }
     public int PricePerNight { get; set; }
 
-    public HotelBooking(string name, DateTime startDate, int lengthOfStayInDays, int pricePerNight)
+    public HotelBooking(Person person, DateTime startDate, int lengthOfStayInDays, int pricePerNight)
     {
-        if (string.IsNullOrWhiteSpace(name))
-            throw new ArgumentException("Guest name cannot be empty.");
-
+       
         if (startDate < DateTime.Today)
             throw new ArgumentException("Start date cannot be in the past.");
 
@@ -22,7 +20,7 @@ public class HotelBooking
         if (pricePerNight <= 0)
             throw new ArgumentException("Price per night must be greater than zero.");
         
-        GuestName = name;
+        Person = person;
         StartDate = startDate;
         LengthOfStayInDays = lengthOfStayInDays;
         EndDate = startDate.AddDays(lengthOfStayInDays);
@@ -31,7 +29,8 @@ public class HotelBooking
 
     public void DisplayBookingInfo()
     {
-        Console.WriteLine($"Name: {GuestName}, StartDate: {StartDate}," +
+        Console.WriteLine($"Name: {Person.Name}, Email: {Person.Email}" +
+                          $" PhoneNumber: {Person.PhoneNumber}, StartDate: {StartDate}," +
                           $" LengthOfStayInDays: {LengthOfStayInDays}," +
                           $" EndDate: {EndDate}, PricePerNight: {PricePerNight}");
     }
