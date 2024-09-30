@@ -1,0 +1,15 @@
+C:\Users\fredr\source\repos\Csharp_Övningar\BilÖvning\BilÖvning\bin\Debug\net8.0\BilÖvning.exe
+C:\Users\fredr\source\repos\Csharp_Övningar\BilÖvning\BilÖvning\bin\Debug\net8.0\BilÖvning.deps.json
+C:\Users\fredr\source\repos\Csharp_Övningar\BilÖvning\BilÖvning\bin\Debug\net8.0\BilÖvning.runtimeconfig.json
+C:\Users\fredr\source\repos\Csharp_Övningar\BilÖvning\BilÖvning\bin\Debug\net8.0\BilÖvning.dll
+C:\Users\fredr\source\repos\Csharp_Övningar\BilÖvning\BilÖvning\bin\Debug\net8.0\BilÖvning.pdb
+C:\Users\fredr\source\repos\Csharp_Övningar\BilÖvning\BilÖvning\obj\Debug\net8.0\BilÖvning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredr\source\repos\Csharp_Övningar\BilÖvning\BilÖvning\obj\Debug\net8.0\BilÖvning.AssemblyInfoInputs.cache
+C:\Users\fredr\source\repos\Csharp_Övningar\BilÖvning\BilÖvning\obj\Debug\net8.0\BilÖvning.AssemblyInfo.cs
+C:\Users\fredr\source\repos\Csharp_Övningar\BilÖvning\BilÖvning\obj\Debug\net8.0\BilÖvning.csproj.CoreCompileInputs.cache
+C:\Users\fredr\source\repos\Csharp_Övningar\BilÖvning\BilÖvning\obj\Debug\net8.0\BilÖvning.sourcelink.json
+C:\Users\fredr\source\repos\Csharp_Övningar\BilÖvning\BilÖvning\obj\Debug\net8.0\BilÖvning.dll
+C:\Users\fredr\source\repos\Csharp_Övningar\BilÖvning\BilÖvning\obj\Debug\net8.0\refint\BilÖvning.dll
+C:\Users\fredr\source\repos\Csharp_Övningar\BilÖvning\BilÖvning\obj\Debug\net8.0\BilÖvning.pdb
+C:\Users\fredr\source\repos\Csharp_Övningar\BilÖvning\BilÖvning\obj\Debug\net8.0\BilÖvning.genruntimeconfig.cache
+C:\Users\fredr\source\repos\Csharp_Övningar\BilÖvning\BilÖvning\obj\Debug\net8.0\ref\BilÖvning.dll
