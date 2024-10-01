@@ -7,6 +7,7 @@ namespace Lab7
     {
         static void Main(string[] args)
         {
+            Console.ForegroundColor = ConsoleColor.Green;
             static void PrintEmployee(Employee employee, Stack stack)
             {
                 Console.WriteLine($"Items left in the stack: {stack.Count}");
