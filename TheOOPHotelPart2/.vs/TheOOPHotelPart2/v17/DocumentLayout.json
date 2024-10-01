@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fredr\\Downloads\\Csharp_-vningar\\TheOOPHotelPart2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0386A9B1-D0E2-42B6-87B1-91B0D00A883F}|TheOOPHotelPart2\\TheOOPHotelPart2.csproj|c:\\users\\fredr\\downloads\\csharp_-vningar\\theoophotelpart2\\theoophotelpart2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0386A9B1-D0E2-42B6-87B1-91B0D00A883F}|TheOOPHotelPart2\\TheOOPHotelPart2.csproj|solutionrelative:theoophotelpart2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0386A9B1-D0E2-42B6-87B1-91B0D00A883F}|TheOOPHotelPart2\\TheOOPHotelPart2.csproj|c:\\users\\fredr\\downloads\\csharp_-vningar\\theoophotelpart2\\theoophotelpart2\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0386A9B1-D0E2-42B6-87B1-91B0D00A883F}|TheOOPHotelPart2\\TheOOPHotelPart2.csproj|solutionrelative:theoophotelpart2\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0386A9B1-D0E2-42B6-87B1-91B0D00A883F}|TheOOPHotelPart2\\TheOOPHotelPart2.csproj|c:\\users\\fredr\\downloads\\csharp_-vningar\\theoophotelpart2\\theoophotelpart2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0386A9B1-D0E2-42B6-87B1-91B0D00A883F}|TheOOPHotelPart2\\TheOOPHotelPart2.csproj|solutionrelative:theoophotelpart2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0386A9B1-D0E2-42B6-87B1-91B0D00A883F}|TheOOPHotelPart2\\TheOOPHotelPart2.csproj|c:\\users\\fredr\\downloads\\csharp_-vningar\\theoophotelpart2\\theoophotelpart2\\consultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0386A9B1-D0E2-42B6-87B1-91B0D00A883F}|TheOOPHotelPart2\\TheOOPHotelPart2.csproj|solutionrelative:theoophotelpart2\\consultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0386A9B1-D0E2-42B6-87B1-91B0D00A883F}|TheOOPHotelPart2\\TheOOPHotelPart2.csproj|c:\\users\\fredr\\downloads\\csharp_-vningar\\theoophotelpart2\\theoophotelpart2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0386A9B1-D0E2-42B6-87B1-91B0D00A883F}|TheOOPHotelPart2\\TheOOPHotelPart2.csproj|solutionrelative:theoophotelpart2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0386A9B1-D0E2-42B6-87B1-91B0D00A883F}|TheOOPHotelPart2\\TheOOPHotelPart2.csproj|c:\\users\\fredr\\downloads\\csharp_-vningar\\theoophotelpart2\\theoophotelpart2\\housekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0386A9B1-D0E2-42B6-87B1-91B0D00A883F}|TheOOPHotelPart2\\TheOOPHotelPart2.csproj|solutionrelative:theoophotelpart2\\housekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0386A9B1-D0E2-42B6-87B1-91B0D00A883F}|TheOOPHotelPart2\\TheOOPHotelPart2.csproj|c:\\users\\fredr\\downloads\\csharp_-vningar\\theoophotelpart2\\theoophotelpart2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0386A9B1-D0E2-42B6-87B1-91B0D00A883F}|TheOOPHotelPart2\\TheOOPHotelPart2.csproj|solutionrelative:theoophotelpart2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\Downloads\\Csharp_-vningar\\TheOOPHotelPart2\\TheOOPHotelPart2\\Employee.cs",
+              "RelativeDocumentMoniker": "TheOOPHotelPart2\\Employee.cs",
+              "ToolTip": "C:\\Users\\fredr\\Downloads\\Csharp_-vningar\\TheOOPHotelPart2\\TheOOPHotelPart2\\Employee.cs",
+              "RelativeToolTip": "TheOOPHotelPart2\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:36:25.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\Downloads\\Csharp_-vningar\\TheOOPHotelPart2\\TheOOPHotelPart2\\Enums.cs",
+              "RelativeDocumentMoniker": "TheOOPHotelPart2\\Enums.cs",
+              "ToolTip": "C:\\Users\\fredr\\Downloads\\Csharp_-vningar\\TheOOPHotelPart2\\TheOOPHotelPart2\\Enums.cs",
+              "RelativeToolTip": "TheOOPHotelPart2\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:12:23.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Consultant.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\Downloads\\Csharp_-vningar\\TheOOPHotelPart2\\TheOOPHotelPart2\\Consultant.cs",
+              "RelativeDocumentMoniker": "TheOOPHotelPart2\\Consultant.cs",
+              "ToolTip": "C:\\Users\\fredr\\Downloads\\Csharp_-vningar\\TheOOPHotelPart2\\TheOOPHotelPart2\\Consultant.cs",
+              "RelativeToolTip": "TheOOPHotelPart2\\Consultant.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:36:25.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Housekeeper.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\Downloads\\Csharp_-vningar\\TheOOPHotelPart2\\TheOOPHotelPart2\\Housekeeper.cs",
+              "RelativeDocumentMoniker": "TheOOPHotelPart2\\Housekeeper.cs",
+              "ToolTip": "C:\\Users\\fredr\\Downloads\\Csharp_-vningar\\TheOOPHotelPart2\\TheOOPHotelPart2\\Housekeeper.cs",
+              "RelativeToolTip": "TheOOPHotelPart2\\Housekeeper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:36:24.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\Downloads\\Csharp_-vningar\\TheOOPHotelPart2\\TheOOPHotelPart2\\Manager.cs",
+              "RelativeDocumentMoniker": "TheOOPHotelPart2\\Manager.cs",
+              "ToolTip": "C:\\Users\\fredr\\Downloads\\Csharp_-vningar\\TheOOPHotelPart2\\TheOOPHotelPart2\\Manager.cs",
+              "RelativeToolTip": "TheOOPHotelPart2\\Manager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAywDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:36:24.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\Downloads\\Csharp_-vningar\\TheOOPHotelPart2\\TheOOPHotelPart2\\Person.cs",
+              "RelativeDocumentMoniker": "TheOOPHotelPart2\\Person.cs",
+              "ToolTip": "C:\\Users\\fredr\\Downloads\\Csharp_-vningar\\TheOOPHotelPart2\\TheOOPHotelPart2\\Person.cs",
+              "RelativeToolTip": "TheOOPHotelPart2\\Person.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:36:18.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\Downloads\\Csharp_-vningar\\TheOOPHotelPart2\\TheOOPHotelPart2\\Program.cs",
+              "RelativeDocumentMoniker": "TheOOPHotelPart2\\Program.cs",
+              "ToolTip": "C:\\Users\\fredr\\Downloads\\Csharp_-vningar\\TheOOPHotelPart2\\TheOOPHotelPart2\\Program.cs",
+              "RelativeToolTip": "TheOOPHotelPart2\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwCgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:36:19.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
